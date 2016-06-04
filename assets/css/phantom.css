@@ -513,6 +513,7 @@ header .share a {
 		margin-bottom:20px;
 		font-size:13px;
 		line-height:25px;
+		color:#000
 	}
 	.container, .pagination {
 		padding:0 6%;
