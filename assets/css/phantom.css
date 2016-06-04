@@ -511,7 +511,7 @@ header .share a {
 @media (max-width: 480px) {
 	p, ul, ol {
 		margin-bottom:20px;
-		font-size:13px;
+		font-size:18px;
 		line-height:25px;
 		color:#000
 	}
