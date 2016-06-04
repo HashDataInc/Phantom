@@ -130,30 +130,23 @@ strong {
 	text-align:right;
 }
 .navigation {
-	height:90px;
+	margin-bottom:0px;
+	border:0px;
+	border-radius:0px;
 	font-weight:100;
 	background:#1b1f23;
 	-webkit-animation-duration:1s;
 	animation-duration:1s;
 }
 
-.navigation-index {
-	float: right;
+.navigation button {
+	background: #1b1f23;
+	margin-top: 12px;
 }
 
-.navigation ul {
-    list-style-type: none;
-    line-height:90px;
-	margin:0;
-}
-
-.navigation li {
-    float: left;
-    position: relative;
-}
-
-.navigation li a {
+.navigation a {
     margin: 5px;
+    border-bottom: 0px;
 }
 
 .content, .brand {
